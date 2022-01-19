@@ -1,0 +1,11 @@
+.idea/*
+/runtime/*
+/uploads/*
+/vendor/*
+/node_modules/*
+composer.lock
+package-lock.json
+.env
+supervisord.*
+yarn.lock
+/public/images/Thumbs.db
